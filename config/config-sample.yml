@@ -1,0 +1,5 @@
+db:
+  postgres: "host=localhost port=5432 user=postgres password=password dbname=password sslmode=disable timezone=UTC connect_timeout=5"
+
+app:
+  cred: "credddd"
